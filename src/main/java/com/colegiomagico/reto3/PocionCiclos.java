@@ -8,7 +8,7 @@ public class PocionCiclos {
     public static String preparar(int cantidad) {
         String pociones ="";
         for (int i = 0; i < cantidad; i++) {
-            pociones= pociones + "pocion ";
+            pociones= pociones + "Pocion ";
         }
         return pociones; // TODO: Cambia esto
 
